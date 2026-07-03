@@ -67,8 +67,6 @@ gcc main.c -o main
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### 🏠 Main Menu
 
 ![Main Menu](screenshot/menu.png)
