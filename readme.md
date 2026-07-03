@@ -71,27 +71,27 @@ gcc main.c -o main
 
 ### 🏠 Main Menu
 
-![Main Menu](screenshots/menu.png)
+![Main Menu](screenshot/menu.png)
 
 ### ➕ Add Student
 
-![Add Student](screenshots/add-student.png)
+![Add Student](screenshot/add-student.png)
 
 ### 📋 Display Students
 
-![Display Students](screenshots/display-students.png)
+![Display Students](screenshot/display-students.png)
 
 ### 🔍 Search Student
 
-![Search Student](screenshots/search-student.png)
+![Search Student](screenshot/search-student.png)
 
 ### ✏️ Update Student
 
-![Update Student](screenshots/update-student.png)
+![Update Student](screenshot/update-student.png)
 
 ### 🗑️ Delete Student
 
-![Delete Student](screenshots/delete-student.png)
+![Delete Student](screenshot/delete-student.png)
 
 
 ---
@@ -121,5 +121,6 @@ gcc main.c -o main
 
 ## 👨‍💻 Author
 
-**Nisarga Nayak**
-**B.Tech (Networks)**
+Nisarga Nayak
+
+B.Tech (Networks)
